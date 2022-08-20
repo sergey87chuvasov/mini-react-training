@@ -1,0 +1,16 @@
+.info {
+  border: 2px solid rgb(240, 175, 175);
+  border-radius: 50px;
+  padding: 20px;
+  max-width: 40%;
+  margin: 20px auto;
+}
+
+.myOtherButton {
+  background-color: brown;
+}
+
+h2 {
+  font-size: 33px;
+  color: fuchsia;
+}
